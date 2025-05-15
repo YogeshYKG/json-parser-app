@@ -1,0 +1,45 @@
+.impactSection {
+  padding: 5rem 1rem;
+  text-align: center;
+  background-color: #fffbe6;
+}
+
+.impactHeading {
+  margin-bottom: 3rem !important;
+  font-weight: 600;
+}
+
+.impactWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.impactCard {
+  flex: 1 1 220px;
+  max-width: 260px;
+  padding: 2rem 1.5rem;
+  background-color: #fefefe;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.07);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.impactCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.iconWrapper {
+  margin-bottom: 1rem;
+}
+
+.cardTitle {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.cardDesc {
+  color: #555;
+}

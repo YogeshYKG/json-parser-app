@@ -1,0 +1,49 @@
+- App.css
+- App.js
+- App.test.js
+- AppRouter.jsx
+- assets
+  - BannerImages
+    - HeroBanner.jpg
+  - IconsImages
+    - Building.png
+    - Factory.png
+    - Favicon.png
+    - Offices.png
+- Components
+  - Footer
+    - Footer.jsx
+  - HeroComponent
+    - Hero.jsx
+  - HowItWorks
+    - HowItWorks.jsx
+    - HowItWorks.module.css
+  - Location
+    - Location.jsx
+    - Location.module.css
+  - Navbar
+    - Navbar.jsx
+  - OurServices
+    - OurServices.jsx
+    - OurServices.module.css
+  - SolarImpact
+    - SolarImpact.jsx
+    - SolarImpact.module.css
+  - Testimonials
+    - Testimonials.jsx
+    - Testimonials.module.css
+  - WhySolar
+    - WhySolar.jsx
+    - WhySolar.module.css
+- index.css
+- index.js
+- logo.svg
+- reportWebVitals.js
+- Routes
+  - HomePage
+    - HomePage.jsx
+    - HomePage.module.css
+- setupTests.js
+- utlsComponent
+  - Loader
+    - Loader.jsx

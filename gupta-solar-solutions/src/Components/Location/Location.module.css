@@ -1,0 +1,21 @@
+.aboutSection {
+  padding: 5rem 1rem;
+  background-color: #fff;
+}
+
+.aboutHeading {
+  font-weight: 600;
+  margin-bottom: 2rem !important;
+}
+
+.aboutWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.aboutText {
+  margin-bottom: 1rem;
+  color: #444;
+  line-height: 1.6;
+}
