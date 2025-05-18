@@ -3,6 +3,8 @@ function ParseJSON(inputString) {
   return parseTokens(tokens);
 }
 
+export default ParseJSON;
+
 
 function tokenize(str) {
   const tokens = [];
